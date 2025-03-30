@@ -1,0 +1,3 @@
+@echo off
+echo Starting Accountants' Big Data AI Solution Presentation Server...
+python start_presentation_server.py

@@ -1,0 +1,8 @@
+# No external dependencies required
+# The presentation server uses Python's built-in modules:
+# - http.server
+# - socketserver
+# - webbrowser
+# - os
+# - threading
+# - time
